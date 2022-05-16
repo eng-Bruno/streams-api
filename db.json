@@ -1,3 +1,37 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "indo ate a farlands no minecraft",
+      "description": "o gerente ficou maluco",
+      "id": 1
+    },
+    {
+      "title": "matarino da grota",
+      "description": "deixou hulk",
+      "id": 2
+    },
+    {
+      "title": "poço de vacilo do pap1to",
+      "description": "cola na grade",
+      "id": 3
+    },
+    {
+      "title": "destruindo fracassados na soloq",
+      "description": "gold the fato",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "live secreta 🤫🤫",
+      "description": "segredo",
+      "userId": "111533971471898537249",
+      "id": 5
+    },
+    {
+      "title": "do challenger ao ferro V ",
+      "description": "cola na grade",
+      "userId": "111533971471898537249",
+      "id": 6
+    }
+  ]
 }
